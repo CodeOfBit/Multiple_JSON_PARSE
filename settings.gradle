@@ -1,0 +1,2 @@
+rootProject.name='jsonWork'
+include ':app'
